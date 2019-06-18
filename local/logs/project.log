@@ -1,0 +1,71 @@
+2019-06-18T03:05:45.729Z - normal: Load ~/.CocosCreator/settings.json
+2019-06-18T03:05:46.819Z - normal: Initializing Asset Database
+2019-06-18T03:05:46.821Z - normal: checking language setting...
+2019-06-18T03:05:46.822Z - normal: Language: zh
+2019-06-18T03:05:47.365Z - success: preview server running at http://localhost:7457
+2019-06-18T03:05:47.365Z - success: protocol editor-framework registered
+2019-06-18T03:05:47.365Z - success: protocol app registered
+2019-06-18T03:05:47.366Z - success: protocol theme registered
+2019-06-18T03:05:47.366Z - success: protocol packages registered
+2019-06-18T03:05:47.366Z - success: protocol uuid registerred
+2019-06-18T03:05:47.366Z - success: protocol db registerred
+2019-06-18T03:05:47.366Z - success: protocol thumbnail registerred
+2019-06-18T03:05:47.366Z - success: protocol unpack registerred
+2019-06-18T03:05:47.366Z - success: protocol disable-commonjs registerred
+2019-06-18T03:05:47.523Z - normal: connected!
+2019-06-18T03:05:47.527Z - normal: Check project C:\Users\Administrator\Desktop\start_project
+2019-06-18T03:05:47.532Z - normal: Initializing project C:\Users\Administrator\Desktop\start_project
+2019-06-18T03:05:47.881Z - normal: Initializing Cocos2d
+2019-06-18T03:05:48.568Z - normal: Initializing engine extends
+2019-06-18T03:05:48.583Z - success: asset-db-debugger loaded
+2019-06-18T03:05:48.584Z - success: baidu-adapter loaded
+2019-06-18T03:05:48.585Z - success: code-editor loaded
+2019-06-18T03:05:48.586Z - success: color-picker loaded
+2019-06-18T03:05:48.661Z - success: fb-audience-network loaded
+2019-06-18T03:05:48.701Z - success: fb-live-stream loaded
+2019-06-18T03:05:48.703Z - success: google-play-instant loaded
+2019-06-18T03:05:48.707Z - success: huawei-runtime loaded
+2019-06-18T03:05:48.708Z - success: jsb-adapter loaded
+2019-06-18T03:05:48.711Z - success: oppo-runtime loaded
+2019-06-18T03:05:48.713Z - success: package-manager loaded
+2019-06-18T03:05:48.812Z - success: qqplay-adapter loaded
+2019-06-18T03:05:48.814Z - success: runtime-dev-tools loaded
+2019-06-18T03:05:48.816Z - success: sdkbox loaded
+2019-06-18T03:05:48.818Z - success: tester loaded
+2019-06-18T03:05:48.820Z - success: ui-grid loaded
+2019-06-18T03:05:48.821Z - success: ui-kit-preview-extra loaded
+2019-06-18T03:05:48.821Z - success: ui-kit-preview loaded
+2019-06-18T03:05:48.822Z - success: ui-kit loaded
+2019-06-18T03:05:48.824Z - success: ui-tree loaded
+2019-06-18T03:05:48.827Z - success: vivo-runtime loaded
+2019-06-18T03:05:48.828Z - success: weapp-adapter loaded
+2019-06-18T03:05:48.860Z - success: assets loaded
+2019-06-18T03:05:48.861Z - success: builder loaded
+2019-06-18T03:05:49.080Z - success: cocos-services loaded
+2019-06-18T03:05:49.082Z - success: console loaded
+2019-06-18T03:05:49.113Z - success: fb-instant-games loaded
+2019-06-18T03:05:49.114Z - success: google-instant-games loaded
+2019-06-18T03:05:49.117Z - success: hierarchy loaded
+2019-06-18T03:05:49.119Z - success: inspector loaded
+2019-06-18T03:05:49.120Z - success: keystore loaded
+2019-06-18T03:05:49.123Z - success: node-library loaded
+2019-06-18T03:05:49.124Z - success: package-asset loaded
+2019-06-18T03:05:49.125Z - success: preferences loaded
+2019-06-18T03:05:49.126Z - success: project-exporter loaded
+2019-06-18T03:05:49.127Z - success: project-importer loaded
+2019-06-18T03:05:49.128Z - success: project-settings loaded
+2019-06-18T03:05:49.130Z - success: scene loaded
+2019-06-18T03:05:49.132Z - success: simulator-debugger loaded
+2019-06-18T03:05:49.133Z - success: sprite-editor loaded
+2019-06-18T03:05:49.136Z - success: store loaded
+2019-06-18T03:05:49.139Z - success: timeline loaded
+2019-06-18T03:05:50.305Z - normal: Loading packages
+2019-06-18T03:05:50.308Z - normal: Watching packages
+2019-06-18T03:05:50.676Z - normal: Run Application
+2019-06-18T03:05:50.768Z - info: Cocos Services load base data!
+2019-06-18T03:09:35.339Z - success: API data generated and copied to C:\Users\Administrator\Desktop\start_project\creator.d.ts
+2019-06-18T03:09:37.953Z - success: VS Code extension installed to C:\Users\Administrator\.vscode\extensions
+2019-06-18T03:09:39.838Z - success: TypeScript Configuration file has been copied to C:\Users\Administrator\Desktop\start_project\tsconfig.json
+2019-06-18T03:09:41.521Z - success: Chrome debug setting has been updated to .vscode/launch.json, please install Debugger for Chrome VS Code extension to debug your project.
+2019-06-18T03:09:43.398Z - success: Compiling task has been added to .vscode/tasks.json, please run "compile" task in VS Code to trigger compile in Cocos Creator.
+2019-06-18T04:38:41.976Z - info: shutdown preview server
